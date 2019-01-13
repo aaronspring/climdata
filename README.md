@@ -1,5 +1,5 @@
 # climdata
-a repository for storing tutorial files and climate model masks
+a repository for storing masks and metadata for climate models. 
 
 ---
 
